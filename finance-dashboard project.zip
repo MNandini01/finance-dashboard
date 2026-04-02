@@ -1,5 +1,0 @@
-rm -rf node_modules package-lock.json
-npm install
-git add .
-git commit -m "fix install issue"
-git push
