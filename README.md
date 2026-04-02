@@ -3,17 +3,14 @@
 A clean and interactive finance dashboard built using React and TypeScript.  
 This project allows users to track income, expenses, and overall financial activity in a simple and intuitive interface.
 
----
 
 ## 🚀 Live Demo
 👉 https://your-project.vercel.app
 
----
 
 ## 📂 GitHub Repository
 👉 https://github.com/your-username/finance-dashboard
 
----
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +18,6 @@ This project allows users to track income, expenses, and overall financial activ
 - Tailwind CSS
 - Vite
 
----
 
 ## ✨ Features
 
@@ -34,14 +30,11 @@ This project allows users to track income, expenses, and overall financial activ
 - 📱 Responsive design for different screen sizes
 - ⚡ Fast and lightweight frontend implementation
 
----
-
 ## 🧠 State Management
 
 - Managed using React Hooks (`useState`, `useMemo`)
 - Efficient calculation of balance, income, and expenses
 
----
 
 ## 🎯 Project Approach
 
@@ -53,15 +46,12 @@ The goal was to demonstrate:
 - Simple yet effective state management
 - Good UX practices
 
----
-
 ## ⚖️ Trade-offs
 
 - Used local state instead of Redux for simplicity
 - No backend/API integration (as per assignment requirement)
 - No persistent storage (can be added later)
 
----
 
 ## 🔮 Future Improvements
 
@@ -70,8 +60,6 @@ The goal was to demonstrate:
 - Add data persistence (localStorage or database)
 - Dark mode support
 - Export transactions (CSV/JSON)
-
----
 
 ## 🧪 How to Run Locally
 
